@@ -1,4 +1,5 @@
 # droneTELEME
+Drone에 사용되는 텔레메트리 데이터 송수신 관련하여 신규 프로토콜 개발 건으로 실험중에 사용하였던 코드들.
 
 # Structure of the test files
 ```bash
